@@ -18,6 +18,7 @@ import { Product } from '../core';
             [description]="product.description"
           ></app-card-content>
         </div>
+        <h2>testing by commiting</h2>
       </li>
     </ul>
   `,
